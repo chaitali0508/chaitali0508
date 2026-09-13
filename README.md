@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋,I'm Chaitali Patel
 
 I'm an MCA student interested in web development and software development. I enjoy learning new technologies, building projects, and improving my problem-solving skills
 
